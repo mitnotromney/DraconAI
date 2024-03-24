@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Define the GPT-4 API endpoint and API key
 GPT4_API_URL = 'https://api.openai.com/v1/chat/completions'
-API_KEY = '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'  # Replace with your actual API key
+API_KEY = ''  # Replace with your actual API key
 
 def query_gpt4(message):
     headers = {'Authorization': f'Bearer {API_KEY}'}
