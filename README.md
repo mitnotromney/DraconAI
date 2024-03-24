@@ -45,7 +45,7 @@ To embark on adventures with DraconAI:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/YourGitHub/DraconAI.git
+git clone https://github.com/mitnotromney/DraconAI.git
 Install dependencies within the project directory:
 bash
 Copy code
